@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Data and large files (keep repo under GitHub's limits)
+data/
+*.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
+.vscode/
